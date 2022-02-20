@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @craigontour
-- 👀 I’m interested in ... Chess, Cycling, 
+- 👀 I’m interested in ... Chess, cycling, curling
 - 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... Chef (?)
 
